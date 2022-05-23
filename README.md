@@ -2,5 +2,5 @@
 
 
 ```bash
-nodex index.js
+node index.js
 ```
